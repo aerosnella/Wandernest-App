@@ -1,0 +1,11 @@
+python-dotenv>=1.0
+langchain-core>=0.3
+langchain-community>=0.3
+langchain-openai>=0.2
+langchain-text-splitters>=0.3
+azure-search-documents>=11.4
+azure-ai-contentsafety>=1.0
+azure-core>=1.30
+azure-identity>=1.15
+pypdf>=4.0
+streamlit>=1.35

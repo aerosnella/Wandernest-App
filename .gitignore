@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+evaluation/results/
+.streamlit/secrets.toml
+_render*/
+*.pptx
+*.log
+*.err
+*.tmp
